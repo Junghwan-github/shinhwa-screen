@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- 대메뉴 페이지 -->
+   <url>
+      <loc>http://shinhwa.info/</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://shinhwa.info/company-info.html</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>http://shinhwa.info/gb5/pd_window</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://shinhwa.info/gb5/ct_window</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+    <url>
+      <loc>http://shinhwa.info/gb5/freeboard</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+   <!-- 대메뉴 페이지 안의 소메뉴 페이지 -->
+   <url>
+      <loc>http://shinhwa.info/gb5/pd_entrance</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+    <url>
+      <loc>http://shinhwa.info/gb5/pd_blind</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.7</priority>
+   </url>
+    <url>
+      <loc>http://shinhwa.info/gb5/pd_etc</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.7</priority>
+   </url>
+     <url>
+      <loc>http://shinhwa.info/gb5/ct_entrance</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+     <url>
+      <loc>http://shinhwa.info/gb5/ct_blind</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+     <url>
+      <loc>http://shinhwa.info/gb5/ct_etc</loc>
+      <lastmod>2024-04-18</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <!-- 다른 소메뉴 페이지들 -->
+</urlset>

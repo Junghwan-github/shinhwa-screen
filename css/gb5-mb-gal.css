@@ -1,0 +1,50 @@
+@media (max-width: 720px) {
+
+    .gall_row .col-gn-1,
+    .gall_row .col-gn-2,
+    .gall_row .col-gn-3,
+    .gall_row .col-gn-4,
+    .gall_row .col-gn-5,
+    .gall_row .col-gn-6,
+    .gall_row .col-gn-7,
+    .gall_row .col-gn-8,
+    .gall_row .col-gn-9,
+    .gall_row .col-gn-10,
+    .gall_row .col-gn-11,
+    .gall_row .col-gn-12,
+    .gall_row .col-gn-13,
+    .gall_row .col-gn-15,
+    .gall_row .col-gn-16,
+    .gall_row .col-gn-17,
+    .gall_row .col-gn-18,
+    .gall_row .col-gn-19,
+    .gall_row .col-gn-20 {
+        width: 50%;
+    }
+
+    #bo_gall #gall_ul {
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    #bo_gall .gall_img {
+        padding: 0;
+    }
+    #bo_gall .bo_tit {
+        line-height: 1;
+        font-size: 0.9rem;
+    }
+
+    #bo_v_title .bo_v_tit {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .cke_sc {
+        display: none;
+    }
+
+    #smart_editor2 {
+        width: 100% !important;
+    }
+}
